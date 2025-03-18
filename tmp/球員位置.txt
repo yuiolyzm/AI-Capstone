@@ -1,9 +1,0 @@
-球員位置
-<span class="Table_tag__vKZKn generated_utility20sm__ZX2Hf generated_utility19md__XKkU_">到</span>之間的英文字
-
-球員姓名
-<div class="Table_profileSupLabel__0kYiG generated_utility19__7GEgr">後的下一個</div>到下下一個</div>之間的英文字
-
-
-球員數據
-<span class="Table_statCellValue__zn5Cx">到</div>之間的數字
